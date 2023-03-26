@@ -1,0 +1,5 @@
+.git
+.env
+node_modules
+client
+k8s-config-files
